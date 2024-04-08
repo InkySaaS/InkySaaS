@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Inky!
+- 👀 I’m interested in drawing and writing, and I plan on creating some indie projects in the future.
+- 🌱 I’m currently learning C, Python, Java, HTML and also languages used on game engines such as Ren'py and GML.
+- 💞️ I'm currently not in active search of collaborators, but I may in the future for a small project.
+- 📫 You can currently reach me on Discord, Instagram, Twitter and Replit, all linked in my profile.
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: It's hard for me to work in groups, so if we do, please be patient with me and do tell me how to better myself.
