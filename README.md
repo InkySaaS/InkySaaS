@@ -2,6 +2,6 @@
 - 👀 I’m interested in drawing and writing, and I plan on creating some indie projects in the future.
 - 🌱 I’m currently learning C, Python, Java, HTML and also languages used on game engines such as Ren'py and GML.
 - 💞️ I'm currently not in active search of collaborators, but I may in the future for a small project.
-- 📫 You can reach me on Discord, Instagram, all linked in my profile. However, I do not have access to Twitter at the moment.
+- 📫 You can reach me on Discord, Instagram, Bluesky and Twitter all linked in my profile.
 - 😄 Pronouns: she/her
 - 🧩 I have AuDHD and am in the process of getting treatment
